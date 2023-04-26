@@ -2,7 +2,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=timwang95.visitor-badge)
 
 - 🌱 Currently learning Web Development by Self
-- ⚡ I'm currently working on .
 - 🔍 Take a look my projects on [Frontend Mentor](https://github.com/TimWang95/frontend-mentor-solutions) challenges!
 
 <br />
