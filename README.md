@@ -10,7 +10,7 @@
 ## Skills 
 - Front-End Development:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,sass,tailwind,figma&flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,sass,tailwind&flutter)](https://skillicons.dev)
 
 
 <br />
@@ -18,7 +18,7 @@
  
 ## 💻 Softwares and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,github,vscode&flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,github,vscode&flutter)](https://skillicons.dev)
 
 <br />
 <br />
